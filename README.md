@@ -36,8 +36,8 @@ Regression Problem: Train and test a model using regression algorithm to predict
 
 
 Needs data or some help you can reach me at: 
-    - Gmail: shashankshanu1993@gmail.com
-    - LinkedIn: www.linkedin.com/in/shashank-shanu-425783117
+- Gmail: shashankshanu1993@gmail.com
+- LinkedIn: www.linkedin.com/in/shashank-shanu-425783117
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 Credit: Edureka Team
